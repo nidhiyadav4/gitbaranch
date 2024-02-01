@@ -1,6 +1,6 @@
- class abc
- {
+ LAB 10 GIT PULL FETCH IS GOING TO UPDATE LOCAL REPOSITORY
+ 
     
- }
+ 
 
  
